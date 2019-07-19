@@ -4,6 +4,5 @@ The prediction is done on random pixels from the test data file and pixels are p
 
 ### Libraries Used:-
 1. Pandas
-2. Random
-3. Numpy
-4. Matplotlib.pyplot
+2. Numpy
+3. Matplotlib.pyplot
